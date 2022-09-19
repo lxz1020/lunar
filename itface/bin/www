@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+//  const http=require('http')
+
+// http.createServer((req, res) => {
+//   res.writeHead(301, { 'Location': 'https://www.lyjcbb.com' });
+//   res.end();
+// }).listen(80);
